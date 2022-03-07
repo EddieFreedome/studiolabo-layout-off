@@ -9,6 +9,10 @@ p{
     padding-right: 105px;
 }
 
+h2{
+    margin-bottom: 0 !important;
+}
+
 .m-section{
     margin-top: 125px;
 }
@@ -29,12 +33,20 @@ p{
     padding-bottom: 65px;
 }
 
-.m-120{
-    margin-bottom: 120px;
+.pb-70{
+    padding-bottom: 70px;
+}
+
+.pb-120{
+    padding-bottom: 120px;
 }
 
 .fw-700{
     font-weight: 700;
+}
+
+.text-small{
+    font-size: 14px;
 }
 
 .my-btn{
