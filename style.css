@@ -13,6 +13,13 @@ h2{
     margin-bottom: 0 !important;
 }
 
+hr.cyan{
+    width: 25%;
+    border-top: 2px solid #21DCC1;
+    opacity: 1;
+    margin: 0 !important;
+}
+
 .m-section{
     margin-top: 125px;
 }
@@ -63,7 +70,7 @@ h2{
 
 .border-cyan{
     border-width: 25%;
-    border-bottom: 2px solid #21DCC1;
+    border-bottom: 1px solid #21DCC1;
 }
 
 /* color cyan: # */
