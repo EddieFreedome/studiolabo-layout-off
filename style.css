@@ -5,6 +5,7 @@
     font-family: "Inter", sans-serif;
 }
 
+
 .m-section{
     margin-top: 125px;
 }
@@ -31,6 +32,14 @@
 
 .fw-700{
     font-weight: 700;
+}
+
+.my-btn{
+    color: white;
+    padding: 10px 15px;
+    background-color: #21DCC1;
+    border-radius: 25px;
+    text-decoration: none;
 }
 
 .cyan{
