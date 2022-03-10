@@ -20,6 +20,25 @@ hr.cyan{
     margin: 0 !important;
 }
 
+.header-container{
+    background-color: #E4E9ED;
+    min-height: 300PX;
+}
+
+.header-container .row .col-3:first-child{
+    padding-left: 0 !important;
+}
+
+.hero-head{
+    background-color: white;
+    padding: 50px 55px !important;
+    max-width: calc(100%/2);
+}
+
+.h-hero{
+    font-size: 4rem;
+}
+
 .m-section{
     margin-top: 125px;
 }
@@ -36,6 +55,10 @@ hr.cyan{
     padding-bottom: 35px;
 }
 
+.pb-55{
+    padding-bottom: 55px;
+}
+
 .pb-65{
     padding-bottom: 65px;
 }
@@ -48,12 +71,24 @@ hr.cyan{
     padding-bottom: 120px;
 }
 
+.pt-120{
+    padding-top: 120px;
+}
+
+.pl-nav{
+    padding-left: 55px;
+}
+
 .fw-700{
     font-weight: 700;
 }
 
 .text-small{
     font-size: 14px;
+}
+
+.underlined{
+    text-decoration: underline;
 }
 
 .my-btn{
@@ -66,6 +101,10 @@ hr.cyan{
 
 .cyan{
     color: #21DCC1;
+}
+
+.black{
+    color: #162D49;
 }
 
 .border-cyan{
