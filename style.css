@@ -31,8 +31,8 @@ hr.cyan{
 
 .hero-head{
     background-color: white;
-    padding: 50px 55px !important;
-    max-width: calc(100%/2);
+    padding: 50px 50px !important;
+    /* padding-left: 55px !important; */
 }
 
 .h-hero{
@@ -41,6 +41,34 @@ hr.cyan{
 
 .m-section{
     margin-top: 125px;
+}
+
+.my-btn{
+    color: white;
+    padding: 10px 15px;
+    background-color: #21DCC1;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+.mario-container{
+    height: 100px;
+    width: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+}
+
+.mario-container img{
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.person-container img{
+    right: 0;
+}
+
+.pl-12{
+    padding-left: 6px !important;
 }
 
 .pb-35{
@@ -91,13 +119,7 @@ hr.cyan{
     text-decoration: underline;
 }
 
-.my-btn{
-    color: white;
-    padding: 10px 15px;
-    background-color: #21DCC1;
-    border-radius: 25px;
-    text-decoration: none;
-}
+
 
 .cyan{
     color: #21DCC1;
